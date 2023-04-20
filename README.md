@@ -66,10 +66,10 @@ npm start
 ```
 - Retrieve a user by ID (GET): `/api/users/:id`
 - Update a user's information (PUT): `/api/users/:id`
-  ```
+```
 {
   "name": "DFanso",
   "email": "dfanso@pm.me"
 }
-  ```
+```
 - Delete a user by ID (DELETE): `/api/users/:id`
