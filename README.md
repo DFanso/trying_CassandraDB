@@ -16,7 +16,7 @@ git clone https://github.com/DFanso/trying_CassandraDB
 ```
 
 ```
-cd your-repository
+cd trying_CassandraDB
 ```
 
 2. Install dependencies:
